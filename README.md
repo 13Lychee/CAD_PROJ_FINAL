@@ -1,5 +1,4 @@
 # CAD_PROJ_FINAL
-CAD_PROJ_FINAL
 ## 三维CAD建模课程作业
 
 #### 任务
