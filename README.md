@@ -20,11 +20,11 @@ CAD_PROJ_FINAL
 
 线框模型：
 
-![image-20221110133039164](/../../img/image-20221110133039164.png)
+![image-20221110133039164](/../main/doc/img/image-20221110133039164.png)
 
 多孔：
 
-![image-20221110133214221](/../../img/image-20221110133214221.png)
+![image-20221110133214221](/../main/doc/img/image-20221110133214221.png)
 
 
 
@@ -174,4 +174,4 @@ void sweeping (Face *face ,Point *sweepPoint);
 
 #### 项目结构
 
-![image-20221110132551918](/../../img/image-20221110132551918.png)
+![image-20221110132551918](/../main/doc/img/image-20221110132551918.png)
